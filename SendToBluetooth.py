@@ -2,9 +2,6 @@
 
 import os, subprocess
 
-from gi import require_version
-require_version('Gtk', '4.0')
-
 from urllib.parse import unquote, urlparse
 
 from gi.repository import GObject, Nautilus
