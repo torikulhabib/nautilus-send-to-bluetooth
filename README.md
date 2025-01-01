@@ -1,4 +1,4 @@
-#Nautilus 46.2 Send To Bluetooth Ubunt 24.04
+# Nautilus 46.2 Send To Bluetooth Ubunt 24.04
 
 This extension adds a context menu item to nautilus that allows you to send files to your Bluetooth devices
 
