@@ -8,7 +8,6 @@ require_version('Nautilus', '4.0')
 
 from urllib.parse import unquote, urlparse
 
-import gi
 from gi.repository import GObject, Nautilus
 
 import dbus
