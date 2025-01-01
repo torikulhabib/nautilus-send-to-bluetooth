@@ -14,5 +14,6 @@ or
 ~/.local/share/nautilus-python/extensions/
 
 then restart nautilus using nautilus -q command
+
 ![screenshot](Screenshot1.png)
 ![screenshot](Screenshot2.png)
